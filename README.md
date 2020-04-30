@@ -1,59 +1,33 @@
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
-# Quizzler ❓
-
-## Our Goal
-
-In this tutorial we will be reviewing Stateful and Stateless Widgets as well as learning about the fundamental building blocks of Object Oriented Programming (OOP) - Classes and Objects. 
+# Quizzes about Rwanda ( in Kinyarwanda )
 
 
-## What you will create
+In this application,  we try to highlight some randoma questions about Rwanda in geographical side. 
 
-We’re going to make a quiz app that tests your general knowledge. As one of the most popular types of apps on the app stores, you can create your own quiz for other people to enjoy!
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif)
 
-## What you will learn
-
-- Modularising your code into separate classes.
-- Dart classes and objects.
-- Using class constructors.
-- Extracting Widgets to refactor your code.
-- private and public modifiers in Dart.
-- How to use Dart lists.
-- The difference between var, const and final.
-
-## Code Snippet for Project
 
 ```
-    Question('Some cats are actually allergic to humans', true),
-    Question('You can lead a cow down stairs but not up stairs.', false),
-    Question('Approximately one quarter of human bones are in the feet.', true),
-    Question('A slug\'s blood is green.', true),
-    Question('Buzz Aldrin\'s mother\'s maiden name was \"Moon\".', true),
-    Question('It is illegal to pee in the Ocean in Portugal.', true),
-    Question('No piece of square dry paper can be folded in half more than 7 times.',false),
-    Question(
-        'In London, UK, if you happen to die in the House of Parliament, you are technically entitled to a state funeral, because the building is considered too sacred a place.',
-        true),
-    Question(
-        'The loudest sound produced by any animal is 188 decibels. That animal is the African Elephant.',
-        false),
-    Question(
-        'The total surface area of two human lungs is approximately 70 square metres.',
-        true),
-    Question('Google was originally called \"Backrub\".', true),
-    Question(
-        'Chocolate affects a dog\'s heart and nervous system; a few ounces are enough to kill a small dog.',
-        true),
-    Question(
-        'In West Virginia, USA, if you accidentally hit an animal with your car, you are free to take it home to eat.',
-        true),
+    Question('Kigali ifite uturere dutatu (3)', true),
+    Question('Kibungo ni akarere k\' i iburengerazuba.', false),
+    Question('Ngororero ni akarere k\' amajyepfo.', true),
+    Question('Nyagatare niko karere kanini mu Rwanda', true),
+    Question('Gicumbi ni akarere k\' amajyaruguru".', true),
+    Question('Karongi iri mu abajyarugu.', true),
+    Question('Gisagara ni akarere k\' amajyarugu',false),
+    Question('Gasabo ni akarere ka Kigali',true),
+    Question('amajyepfo afite uturere 7',false),
+    Question('Karongi ni akarere ka Amajyarugu',false),
+    Question('Ngoma ni akarere k\' i burasirazuna".', true),
+    Question('Rusizi iri uburengerazuba',true),
+    Question('Intara\' amajyaruguru ifite uturere 6',true),
+
+    Question('i darapu ry\'u Rwanda rifite amabara 3',true),
+    Question('Twabonye ubwigenge muri 1960',false),
+    Question('Ikiyaga cya Kivu s\'icyu\'u Rwanda gusa',true),
+    Question('Nitwa Sababu',true),
 
 ```
 
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
